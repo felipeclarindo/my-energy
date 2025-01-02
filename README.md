@@ -4,9 +4,9 @@ Web application to improve the issue of energy spending integrated with api deve
 
 ## Technologies Used
 
-Streamlit - Development of the interface
-request - Perform requests in api for manipulations in crud.
-Oracle Database - Standard database (can be changed as needed)
+- `Streamlit` - Development of the interface.
+- `requests` - Perform requests in api for manipulations in crud.
+- `Oracle Database` - Standard database (can be changed as needed).
 
 ## API Features
 
